@@ -1,0 +1,41 @@
+.card{
+  border: 2px solid black;
+  max-width: 23vw;
+  padding: 15px;
+  background-color: aquamarine;
+}
+
+.container{
+  display: flex;
+  gap: 34px;
+  flex-wrap: wrap;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+nav, ul{
+  display: flex;
+  gap: 35px;
+  background-color: beige;
+  padding: 10px 3px;
+  margin-bottom: 10px;  
+}
+
+li{
+  list-style: none;
+  cursor: pointer;
+}
+li:hover{
+  text-decoration: underline;
+  color: blue;
+}
+
+.card h2{
+  padding-bottom: 8px;
+}
+.card p{
+  padding-bottom: 8px;
+}

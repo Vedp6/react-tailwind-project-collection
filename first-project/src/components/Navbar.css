@@ -1,0 +1,18 @@
+nav, ul{
+    display: flex;
+}
+li{
+    list-style: none;
+    cursor: pointer;
+}
+li:hover{
+    color: blueviolet;
+    text-decoration: underline;
+}
+ul{
+    gap: 24px;
+}
+nav{
+    background-color: beige;
+    padding: 23px;
+}
