@@ -32,7 +32,7 @@ A React application that fetches and displays **random inspirational quotes** fr
 
 ### Live Demo
 
-Coming soon...
+https://random-quote-generator-ivory-sigma.vercel.app/
 
 
 
@@ -50,6 +50,9 @@ A simple task manager built with React.
 * Delete tasks
 * Mark tasks as complete
 * Responsive UI
+
+### Live Demo
+https://todo-list-seven-tawny-96.vercel.app/
 
 ---
 
