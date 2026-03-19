@@ -48,7 +48,7 @@ const Weather = () => {
             const res = await fetch(url)
             const data = await res.json()
             if(!res.ok){
-                alert("Invalid City Name")
+                alert("City Not Found")
                 return  
             }
             const icon = allIcons[data.weather[0].icon] || clear_icon
