@@ -34,9 +34,36 @@ A React application that fetches and displays **random inspirational quotes** fr
 
 https://random-quote-generator-ivory-sigma.vercel.app/
 
+---
 
+# 🌦️ Weather App (React)
+
+A simple and modern Weather Application built using **React.js** that allows users to check real-time weather conditions for any city.
 
 ---
+
+## 🚀 Features
+
+* 🌍 Search weather by city name
+* 🌡️ Displays temperature, humidity, wind speed
+* ☁️ Shows weather condition (Cloudy, Rainy, Sunny, etc.)
+* 🎨 Dynamic UI based on weather conditions
+* 🌙 Light/Dark theme toggle (optional)
+* ⚡ Fast and responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React.js, CSS
+* **API:** OpenWeatherMap API
+* **State Management:** useState, useEffect
+
+### Live Demo
+https://weather-app-ashen-zeta.vercel.app/
+
+---
+
 
 # 📂 Other Projects
 
